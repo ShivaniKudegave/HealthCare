@@ -8,6 +8,8 @@ public class HealthCareApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(HealthCareApplication.class, args);
+		
+		System.out.println("Application Started.....");
 	}
 
 }
